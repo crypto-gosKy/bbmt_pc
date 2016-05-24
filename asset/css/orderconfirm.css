@@ -1,0 +1,191 @@
+.modify-a {
+	color: #005ea7;
+	cursor: pointer;
+	text-decoration: underline
+}
+
+.modify-a:hover {
+	text-decoration: underline
+}
+
+.tip-wrap {
+	padding: 0 20px
+}
+
+.tip-wrap .tip1 {
+	font-size: 18px;
+	padding: 40px 0;
+	text-align: center
+}
+
+.tip-wrap .tip2 {
+	color: #333;
+	line-height: 2em
+}
+
+.btns {
+	margin-top: 20px
+}
+
+.p-15 {
+	padding: 15px
+}
+
+.pl-15 {
+	padding-left: 15px
+}
+
+.pr-15 {
+	padding-right: 15px
+}
+
+.btns span.finish-pay {
+	margin-right: 10px
+}
+
+.h-25px {
+	height: 25px;
+	line-height: 25px
+}
+
+.pl-35 {
+	padding-left: 35px
+}
+
+.mt-15 {
+	margin-top: 15px
+}
+
+.pb-15 {
+	padding-bottom: 15px
+}
+
+.bank {
+	width: 126px;
+	height: 25px;
+	display: inline-block;
+	text-align: left;
+	background-image: url(../img/371bff689e129d3441172fcd500034d9_banks.png);
+	background-repeat: no-repeat;
+	cursor: pointer
+}
+
+.bank_icbc {
+	background-position: 0 -2550px
+}
+
+.bank_ccb {
+	background-position: 0 -400px
+}
+
+.bank_cmb {
+	background-position: 0 -50px
+}
+
+.bank_boc {
+	background-position: 0 -300px
+}
+
+.bank_comm {
+	background-position: 0 -150px
+}
+
+.bank_cib {
+	background-position: 0 -100px
+}
+
+.bank_ceb {
+	background-position: 0 -350px
+}
+
+.bank_cmbc {
+	background-position: 0 -500px
+}
+
+.bank_gdb {
+	background-position: 0 -1100px
+}
+
+.bank_spdb {
+	background-position: 0 -450px
+}
+
+.bank_szpab {
+	background-position: 0 -200px
+}
+
+.bank_bos {
+	background-position: 0 -550px
+}
+
+.bank_shrcb {
+	background-position: 0 -1800px
+}
+
+.bank_other {
+	background-position: -250px -3297px
+}
+
+.bank_abc {
+	background-position: 0 -600px
+}
+
+.bank_psbc {
+	background-position: 0 -1250px
+}
+
+.bank_hxb {
+	background-position: 0 -1350px
+}
+
+.bank_citic {
+	background-position: 0 -1200px
+}
+
+.bank_cbhb {
+	background-position: 0 -1400px
+}
+
+.bank_nbcb {
+	background-position: 0 -900px
+}
+
+.bank_hkbea {
+	background-position: 0 -1050px
+}
+
+.bank_njcb {
+	background-position: 0 -750px
+}
+
+.bank_bccb {
+	background-position: 0 -1150px
+}
+
+.bank_cdb {
+	background-position: 0 -2500px
+}
+
+.bank_wzcb {
+	background-position: 0 -1900px
+}
+
+.bank_sxjs {
+	background-position: 0 -1850px
+}
+
+.bank_zhnx {
+	background-position: 0 -1950px
+}
+
+.bank_sde-net {
+	background-position: 0 -1750px
+}
+
+.bank_hkbchina {
+	background-position: 0 -700px
+}
+
+.bank_ydxys {
+	background-position: 0 -2450px
+}

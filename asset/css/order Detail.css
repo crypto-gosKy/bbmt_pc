@@ -1,0 +1,238 @@
+#orderinfo {
+	width: 100%;
+	height: auto;
+	font-size: 12px;
+	font-family: "Microsoft YaHei"!important
+}
+
+.ahead {
+	font-weight: 700;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 20px
+}
+
+.ainfo {
+	line-height: 25px;
+	margin-left: 70px
+}
+
+.atitle {
+	color: #999;
+	padding-top: 3px;
+	padding-bottom: 3px
+}
+
+.alable {
+	color: #333
+}
+
+.tapbox {
+	width: auto;
+	height: 50px;
+	background-color: #EFEEED;
+	position: relative
+}
+
+.tapbox a {
+	display: block;
+	float: left;
+	height: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	line-height: 50px;
+	font-size: 14px;
+	cursor: pointer
+}
+
+.tapbox a.active {
+	background-color: #FAFAFA;
+	font-weight: 700
+}
+
+.tab-content-box {
+	width: auto;
+	height: auto;
+	min-height: 300px
+}
+
+#orderRemark {
+	width: 500px;
+	height: 100px;
+	border: 1px solid #999;
+	padding: 5px
+}
+
+.lineinfo {
+	width: auto;
+	min-height: 500px;
+	*height: 500px;
+	position: relative
+}
+
+.shuline {
+	position: absolute;
+	width: 1px;
+	height: 100%;
+	border-left: 1px dotted #CCC;
+	left: 50px;
+	top: 0
+}
+
+.lineinfo-item {
+	width: auto;
+	height: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	position: relative
+}
+
+.quan {
+	width: 10px;
+	height: 10px;
+	border-radius: 10px;
+	position: absolute;
+	left: 45px;
+	top: 10px;
+	background-color: #F90
+}
+
+.kdinfo {
+	margin-left: 70px;
+	border-bottom: 1px solid #E8E8E8
+}
+
+.kdtime {
+	color: #999;
+	padding-top: 10px;
+	padding-bottom: 10px
+}
+
+.quanindex {
+	width: 20px;
+	height: 20px;
+	left: 43px;
+	background-color: transparent
+}
+
+#baseinfo {
+	margin-bottom: 20px
+}
+
+.flow-step {
+	overflow: hidden;
+	zoom: 1;
+	padding: 15px 0
+}
+
+.flow-step li {
+	float: left;
+	text-align: center;
+	width: 15%
+}
+
+.flow-step .step-no {
+	height: 34px;
+	line-height: 34px;
+	font-family: 'arial black';
+	color: #fff;
+	font-size: 18px;
+	background: url(../img/4f03f764253001fa7d7dd5c43c6fe637_lc.png) 50% -102px no-repeat
+}
+
+.flow-step .step-first .step-done .step-no {
+	background-position: 50% -204px
+}
+
+.flow-step .step-done .step-no {
+	background-position: 50% -170px
+}
+
+.flow-step .step-cur .step-no {
+	background-position: 50% 0
+}
+
+.flow-step .step-last .step-no {
+	background-position: 50% -136px
+}
+
+.flow-step .step-last .step-cur .step-no {
+	background-position: 50% -68px
+}
+
+.flow-step .step-last .step-done .step-no {
+	background-position: 50% -238px
+}
+
+.flow-step .step-name {
+	padding: 3px 0;
+	font-weight: 700;
+	color: #888
+}
+
+.flow-step .step-time {
+	color: #999;
+	margin-top: 10px
+}
+
+.order-detail-table td {
+	border: 1px solid #c7e5ff;
+	padding: 7px;
+	text-align: center
+}
+
+.order-detail-table .header-tr {
+	background: #E9F5FF
+}
+
+.order-detail-table .header-tr td {
+	color: #7c7c7d
+}
+
+.order-detail-table td.ta-ltd {
+	text-align: left
+}
+
+.col-w {
+	width: 350px;
+	color: #7c7c7d
+}
+
+.info-wrap .info-body>li.li-p10 {
+	padding-bottom: 0
+}
+
+.logistics-ul .line-dot {
+	position: absolute;
+	left: 0
+}
+
+.logistics-ul .line-dot span {
+	margin-left: 5px;
+	height: 15px;
+	border-left: 1px solid #ededed;
+	display: block
+}
+
+.cor-grey7 {
+	color: #ededed
+}
+
+.mt-5 {
+	margin-top: 5px
+}
+
+.pt-5 {
+	padding-top: 5px
+}
+
+.goods-title {
+	height: 40px;
+	line-height: 20px;
+	overflow: hidden;
+	zoom: 1
+}
+
+a.title:hover {
+	text-decoration: underline
+}

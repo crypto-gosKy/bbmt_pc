@@ -1,0 +1,222 @@
+			
+			.Goodpromotion_Price {
+				width: 500px;
+			}
+			
+			.Goodpromotion {
+				padding: 4px 5px;
+		/*		margin: 5px 0px;*/
+				position: relative;
+				font-size: 12px;
+			}
+			
+			.price_all {
+				padding: 5px;
+				background: #FFF2E8;
+			}
+			
+			.market {
+				text-decoration: line-through;
+			}
+			
+			.prop-inner {
+				margin-top: 10px;
+			}
+			
+			.Goodpromotion .label {
+				float: left;
+			}
+			
+			.Goodpromotion .prop-content {
+				float: left;
+				color: #3c3c3c;
+			}
+			
+			.Goodpromotion .prop-content span {
+				float: left;
+				margin-right: 5px;
+			}
+			
+			.Goodpromotion .prop-content span {
+				float: left;
+				margin-right: 5px;
+			}
+			
+			.Goodpromotion .wl-addressinfo {
+				position: relative;
+				display: block;
+				float: left;
+			}
+			
+			.Goodpromotion .wl-info-active {
+				border: 1px solid #ff5000;
+				background-color: #ff5000;
+				color: #fff;
+				text-decoration: none;
+			}
+			
+			.Goodpromotion .to-address {
+				display: inline-block;
+				height: 18px;
+				line-height: 18px;
+				border: 1px solid #fff;
+				background-color: #fff;
+				padding: 0 3px;
+				color: #3c3c3c;
+			}
+			
+			.Goodpromotion .wl-addressinfo #popup-city-select {
+				position: absolute;
+				left: 0px;
+				top: 20px;
+				border: 1px solid #ff5000;
+				background-color: #fff;
+				padding: 10px;
+				width: 414px;
+				z-index: 900;
+			}
+			
+			.Goodpromotion .address-all-close {
+				width: 14px;
+				height: 14px;
+				position: absolute;
+				right: 10px;
+				top: 10px;
+			}
+			
+			a:visited {
+				color: #FF5000;
+				text-decoration: none;
+			}
+			
+			a:link {
+				color: #005aa0;
+				text-decoration: none;
+			}
+			
+			.Goodpromotion .address-all-title-par {
+				width: 100%;
+				zoom: 1;
+				border-bottom: 1px solid #ff5000;
+				height: 21px;
+				_overflow: hidden;
+				margin-top: 10px;
+			}
+			
+			.clearfix {
+				display: block;
+			}
+			
+			.Goodpromotion .address-all-title-par .address-all-title-selected {
+				color: #000;
+				position: relative;
+				height: 21px;
+				border-right: 1px solid #ff5000;
+				border-top: 1px solid #ff5000;
+				border-left: 1px solid #ff5000;
+			}
+			
+			.Goodpromotion .address-all-title-par .address-all-title {
+				height: 20px;
+				line-height: 20px;
+				color: #3c3c3c;
+				font-size: 12px;
+				padding: 0 2px 0 5px;
+				border-right: 1px solid #e5e5e5;
+				border-top: 1px solid #e5e5e5;
+				border-left: 1px solid #e5e5e5;
+				margin-right: 5px;
+				float: left;
+				background-color: #fff;
+				cursor: pointer;
+			}
+			
+			.Goodpromotion .wl-areatab-con s {
+				display: inline-block;
+				position: relative;
+				width: 0;
+				height: 0;
+				overflow: hidden;
+				border-color: #606060 transparent transparent;
+				border-width: 4px 4px 0;
+				border-style: solid;
+				margin: 3px;
+			}
+			
+			.Goodpromotion .address-all-title-par .address-all-title {
+				height: 20px;
+				line-height: 20px;
+				color: #3c3c3c;
+				font-size: 12px;
+				padding: 0 2px 0 5px;
+				border-right: 1px solid #e5e5e5;
+				border-top: 1px solid #e5e5e5;
+				border-left: 1px solid #e5e5e5;
+				margin-right: 5px;
+				float: left;
+				background-color: #fff;
+				cursor: pointer;
+			}
+			
+			.clearfix:after {
+				content: ".";
+				display: block;
+				height: 0;
+				clear: both;
+				visibility: hidden;
+			}
+			
+			.Goodpromotion .address-all-con-par {
+				width: 100%;
+			}
+			
+			.clearfix {
+				display: block;
+			}
+			
+			.Goodpromotion .address-all-con-par .wl-list-add-con {
+				margin: 5px 0 0;
+				padding: 0;
+				display: block;
+				width: 414px;
+			}
+			
+			Goodpromotion .wl-info-active {
+				border: 1px solid #ff5000;
+				background-color: #ff5000;
+				color: #fff;
+				text-decoration: none;
+			}
+			
+			.wl-list-add-con .wl-list-item:hover,
+			.wl-list-add-con .wl-list-add-active {
+				background: #FF5000;
+				color: #FFF;
+				border: 1px solid #ff5e00;
+			}
+			
+			.address-all-con-par .wl-list-item {
+				cursor: pointer;
+				line-height: 18px;
+				font-size: 12px;
+				list-style: none;
+				overflow: hidden;
+				zoom: 1;
+				position: relative;
+				margin: 5px;
+				float: left;
+				border: 1px solid #fff;
+				padding: 0 10px;
+			/*	color: #333;*/
+			}
+			
+			.Goodpromotion .prop-content span {
+				float: left;
+				margin-right: 5px;
+			}
+			
+			.clear {
+				clear: both;
+				height: 0px;
+				line-height: 0px;
+			}
